@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Speaker Deck is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://speakerdeck.com/
+Speaker Deck is an online platform that enables users to upload, share, and embed presentation decks easily. It offers features such as private URLs, password protection, custom URLs, scheduled publishing, branding removal, and embedding restrictions, catering to professionals, educators, and developers who want to showcase their slides publicly or within teams.
+
+**Areas:** Company · Presentation · Sharing · Slides · Education · Developer
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://speakerdeck.com/)
+- [Documentation](https://speakerdeck.com/help)
+- [Getting started](https://speakerdeck.com/signup)
+- [Support](https://help.speakerdeck.com/)
+- [Blog](https://blog.speakerdeck.com/)
+- [Terms of service](https://speakerdeck.com/tos)
+- [Privacy policy](https://speakerdeck.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/speakerdeck/](https://apis.io/providers/speakerdeck/).
